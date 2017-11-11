@@ -1,0 +1,13 @@
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\eBooking.dll.config
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\eBooking.dll
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\eBooking.pdb
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\eBooking.xml
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DotnetProjects\eBooking\eBooking\eBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.vbprojResolveAssemblyReference.cache
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.Resources.resources
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.vbproj.GenerateResource.Cache
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.vbproj.CoreCompileInputs.cache
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.dll
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.xml
+C:\DotnetProjects\eBooking\eBooking\eBooking\obj\Debug\eBooking.pdb
